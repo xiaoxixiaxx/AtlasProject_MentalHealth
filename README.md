@@ -13,15 +13,16 @@ Based on data on suicide mortality rates in the United States, the map shows the
 ## Map - 1
 ![1](https://user-images.githubusercontent.com/77243665/120417126-2788be00-c313-11eb-82cb-01a60fd580c4.JPG)
 
-##### The choropleth map shows the suicide mortality rate in each state in the United States in 2018. It was produced by QGIS. The data comes from the CDC website. Age-adjusted Death Rates refer to the number of deaths per 100,000 total population. Although adjustments for differences in age-distribution and population size, rates rankings by state do not consider other state specific population characteristics that may affect the level of mortality. When the number of deaths is small, rankings by state may be unreliable due to instability in death rates. This map reflects the states with the highest and lowest suicide death rates in the United States.
+#### The choropleth map shows the suicide mortality rate in each state in the United States in 2018. It was produced by QGIS. The data comes from the CDC website. Age-adjusted Death Rates refer to the number of deaths per 100,000 total population. Although adjustments for differences in age-distribution and population size, rates rankings by state do not consider other state specific population characteristics that may affect the level of mortality. When the number of deaths is small, rankings by state may be unreliable due to instability in death rates. This map reflects the states with the highest and lowest suicide death rates in the United States.
 
 ## Map - 2
 ![map2](https://user-images.githubusercontent.com/77243665/120417462-b695d600-c313-11eb-8ca8-c26929d507dc.png)
 
-##### Based on a map of suicide mortality rates, Wyoming had the highest suicide figures, while New York had the lowest. This is a HTML Document. The map highlights Wyoming and New York by JavaScript uses the Polygon feature to pull Wyoming and New York from a plethora of states and data to make them visible and added a pop-up window to show the data, as I will specifically show maps of these two very different states. This map makes my atlas coherent and logically consistent. The data is also from the CDC, resources from Leaflet, used by OpenStreet Basemap.
+#### Based on a map of suicide mortality rates, Wyoming had the highest suicide figures, while New York had the lowest. This is a HTML Document. The map highlights Wyoming and New York by JavaScript uses the Polygon feature to pull Wyoming and New York from a plethora of states and data to make them visible and added a pop-up window to show the data, as I will specifically show maps of these two very different states. This map makes my atlas coherent and logically consistent. The data is also from the CDC, resources from Leaflet, used by OpenStreet Basemap.
 
 ## Map - 3
-
+![New York-final version](https://user-images.githubusercontent.com/77243665/120417632-05437000-c314-11eb-8e5e-67588c41e80f.png)
+#### The dot density map of New York State. It shows medical facilities in New York State (purple dots) and sports facilities (yellow dots). It was produced by QGIS. The data comes from Mapcruzin.com. The first map, suicide mortality, shows that New York has the lowest figure of almost any state in the United States. This map data shows New York's very intensive medical and sports facilities. It seems to illustrate that good medicine contributes to people's mental health. Good exercise habits have a positive impact on mental health. Although the data are subject to error, there are no specific medical comparisons. But it still points out a lot of relevant information.
 
 
 ## Map - 4
