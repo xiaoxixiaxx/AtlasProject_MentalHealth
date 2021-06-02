@@ -25,7 +25,7 @@ Based on data on suicide mortality rates in the United States, the map shows the
 #### The dot density map of New York State. It shows medical facilities in New York State (purple dots) and sports facilities (yellow dots). It was produced by QGIS. The data comes from Mapcruzin.com. The first map, suicide mortality, shows that New York has the lowest figure of almost any state in the United States. This map data shows New York's very intensive medical and sports facilities. It seems to illustrate that good medicine contributes to people's mental health. Good exercise habits have a positive impact on mental health. Although the data are subject to error, there are no specific medical comparisons. But it still points out a lot of relevant information.
 
 ## Map - 4
-
+![Wyoming-final version](https://user-images.githubusercontent.com/77243665/120417840-5bb0ae80-c314-11eb-8b16-2634209d0398.png)
 #### The dot density map of Wyoming. It shows Wyoming's medical facilities (blue dots) and sports facilities (yellow dots). It was produced by QGIS. The data comes from Mapcruzin.com. The first map, suicide mortality rates, shows Wyoming has the highest of almost any state. It is the opposite of what happened in New York state. But according to the logic of an earlier block map of New York State, does Wyoming have very rudimentary medical care? Indeed, the map data indicates that Wyoming has far fewer medical and sports facilities than either New York state or some states in general. Although New York has a large population. The comparison is not absolutely accurate. But it fits with the idea that good medical and sports facilities contribute to people's mental health.
 
 ## Map - 5
