@@ -12,3 +12,5 @@ Based on data on suicide mortality rates in the United States, the map shows the
 
 ## Map - 1
 ![1](https://user-images.githubusercontent.com/77243665/120417126-2788be00-c313-11eb-82cb-01a60fd580c4.JPG)
+
+#### The choropleth map shows the suicide mortality rate in each state in the United States in 2018. It was produced by QGIS. The data comes from the CDC website. Age-adjusted Death Rates refer to the number of deaths per 100,000 total population. Although adjustments for differences in age-distribution and population size, rates rankings by state do not consider other state specific population characteristics that may affect the level of mortality. When the number of deaths is small, rankings by state may be unreliable due to instability in death rates. This map reflects the states with the highest and lowest suicide death rates in the United States.
