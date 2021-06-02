@@ -1,1 +1,44 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>body {text-align:center}</style>
+
+<h1>Wyoming and New York</h1>
+<h2>States with the highest suicide rates and the lowest suicide rates in the United States</h2>
+
+<title>Wyoming and New York</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"/>
+</head>
+<body>
+<script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
+<div id="mapid" style="width: 1500px; height: 900px; margin: auto;"></div>
+<script>
+var mymap = L.map('mapid',
+{
+center: [40.20029648236528, -95.77886237400354],
+zoom: 5
+});
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a>'
+}).addTo(mymap);
+
+
+var mypolygon = L.polygon([[[45.002555318581486, -111.05643274448455],[40.98935162086956, -111.0663445722825],
+[40.997948177272484, -104.04904231322796],[45.07082598260539, -104.06517108559702],[45.002555318581486, -111.05643274448455]]],
+{color:'red', weight:3, fillColor:'Yellow', fillOpacity:1}).addTo(mymap).bindPopup("Wyoming: State with the highest suicide rates in the United States, which's Death Rates is above 25/100000");
+
+var mypolygon = L.polygon([[[42.473961507534405, -79.81258731564091],[41.998660629975774, -79.81258731564091],
+[41.998660629975774, -75.39283776077129],[41.04975048322307, -74.13357950770786],[40.507535751900505, -74.25703619918467],
+[41.01870863686152, -71.87843727673155],[41.254259437730575, -72.08419842919288],[40.98143910171596, -73.56567872691454],
+[45.00070179235459, -73.28584355956713],[44.94830025509112, -75.00600679414394],[43.622703012788996, -76.78378315140993],
+[43.413811122387315, -79.0142340440909],[42.812994148756346, -78.94839047530327],[42.473961507534405, -79.81258731564091]]],
+{color:'blue', weight:3, fillColor:'green', fillOpacity:1}).addTo(mymap).bindPopup("New York: State with the lowest suicide rates in the Unitied States, which's Death Rates below 8.3/100000.");
+
+</script>
+
+<p> </p>
+
+</body>
+</html>
