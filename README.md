@@ -29,3 +29,14 @@ Based on data on suicide mortality rates in the United States, the map shows the
 #### The dot density map of Wyoming. It shows Wyoming's medical facilities (blue dots) and sports facilities (yellow dots). It was produced by QGIS. The data comes from Mapcruzin.com. The first map, suicide mortality rates, shows Wyoming has the highest of almost any state. It is the opposite of what happened in New York state. But according to the logic of an earlier block map of New York State, does Wyoming have very rudimentary medical care? Indeed, the map data indicates that Wyoming has far fewer medical and sports facilities than either New York state or some states in general. Although New York has a large population. The comparison is not absolutely accurate. But it fits with the idea that good medical and sports facilities contribute to people's mental health.
 
 ## Map - 5
+![Poverty Distribution-final version](https://user-images.githubusercontent.com/77243665/120417971-974b7880-c314-11eb-8765-7e59c787c292.png)
+#### The choropleth map shows the average distribution of poverty in the United States between 2017 and 2019. The map was produced by QGIS. Data from U.S. Census Bures. I still compare the distribution of poverty and suicide mortality. Wyoming was the state with the lowest poverty rate, according to the map. The data is biased, but Wyoming's poverty rate does not appear to be high. It suggests that there is no direct link between poverty and mental health.
+
+## Reference:
+[1] DATA CATALOG. (2017). Department of Commerce. US Census Bureau. [shapefile]. Retrieved from https://www.data.gov/
+[2] Mental Health Information. (2020) CDC WISQARS Leading Causes of death reports. (2018). National Institute of Mental Health (CSV File). Retrieved from https://www.nimh.nih.gov/health/statistics/suicide.shtml.
+[3] Mental Health. (2020). U.S. Department of Health & Human Services. Retrieved from https://www.mentalhealth.gov/basics/what-is-mental-health
+[4] National Center for Health Statistics. (2020). U.S. Department of Health. (2020). Center for Disease Control and Prevention. (CSV File). Retrieved from https://www.cdc.gov/nchs/pressroom/sosmap/suicide-mortality/suicide.htm
+[5] Retrieved from https://mapcruzin.com/free-united-states-shapefiles/free-wyoming-arcgis-maps-shapefiles.htm [shapefile]
+[6] The Economics Daily. (2018). U.S. Department of Labor. (2018). Bureau of Labor Statistics. (Table). Retrieved from https://www.bls.gov/opub/ted/
+[7] U.S. Census Bureau. (2020). Annual Social and Economic Supplements. (2020). Current Population Survey. (xlsx File). Retrieved from https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar20.pdf.
